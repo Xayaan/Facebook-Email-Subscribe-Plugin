@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: InstaGrab Beast Pro
+Plugin Name: FBGrab Pro
 Description: Get visitor emails through a Facebook button
 Version: 1.0
 */
